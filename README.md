@@ -1,5 +1,5 @@
 # trosh-android
-That game from stabyourself.net
+That game from @stabyourself ([stabyourself.net])
 
 * **Where can I download it?**
 > On [this page] (https://github.com/pavlukivan/trosh-android/releases)
